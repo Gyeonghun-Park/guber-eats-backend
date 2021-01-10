@@ -4,7 +4,14 @@ The Backend of Guber Eats Clone: NestJS, TypeORM, Jest, GraphQL
 
 ## Restaurant Model
 
-- name
-- category
-- address
-- cover image
+- Edit Restaurant
+- Delete Restaurant
+
+* See Categories
+* See Restaurants by Category (pagination)
+* See Restaurants (pagination)
+* See Restaurant
+
+- Create Dish
+- Edit Dish
+- Delete Dish
